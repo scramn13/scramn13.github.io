@@ -9,7 +9,6 @@ soundcloud_username:  scramn13
 instagram_username:  scramn13
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: pretty
-markdown: rdiscount
 prose:
   rooturl: '_posts'
   siteurl: 'http://prose.github.io/starter/'
