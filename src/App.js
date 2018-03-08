@@ -79,6 +79,8 @@ class App extends Component {
             />
           </a>
 
+          <hr />
+
           <p className="App-intro">
             <a href="https://fanlink.to/scramn-paydirt">New Album - Paydirt</a>
           </p>
