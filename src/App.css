@@ -1,0 +1,77 @@
+.App {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+.wrapper {
+  max-width: 800px;
+  margin: auto;
+}
+
+.App-logo {
+  /* animation: App-logo-spin infinite 20s linear; */
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 80px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.mainImage {
+  width: 80%;
+  align-self: center;
+  margin: 2%;
+  -webkit-box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.75);
+}
+
+body i {
+  font-family: 'FontAwesome' !important;
+  font-style: normal;
+}
+
+hr {
+  width: 80%;
+  max-width: 800px;
+}
+
+.socialLinks {
+  font-size: 2em;
+  color: red;
+}
+
+.socialLinks a {
+  font-size: 1.4em;
+  color: #ff2247;
+  display: block;
+  padding: 0.2em;
+}
+
+.socialLinks a:hover {
+  font-size: 1.6em;
+  color: #ff0832;
+}
